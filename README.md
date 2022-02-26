@@ -21,3 +21,5 @@ In the above model,
     ![image](https://user-images.githubusercontent.com/71095797/155857562-769ff842-697a-44f7-8a0e-a135310c7474.png)
       
       https://youtu.be/Ul0Ai4gTke8
+      
+      The above link is a youtube video of demonstration of Employee Churn Prediction.
