@@ -20,4 +20,6 @@ In the above model,
     8. Evaluate model this is done by taking score model as input and the output can be visualized as follows
     ![image](https://user-images.githubusercontent.com/71095797/155857562-769ff842-697a-44f7-8a0e-a135310c7474.png)
       
-      Youtube video on demonstration of the project Employee Churn Prediction : https://youtu.be/Ul0Ai4gTke8
+      Youtube video on demonstration of the project Employee Churn Prediction
+      
+      https://youtu.be/Ul0Ai4gTke8
