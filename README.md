@@ -18,9 +18,8 @@ In the above model,
     6. Training the model this is done by combining the result of the Two-Class Decision Forest Classifier and the training data from the split data which holds 80% of the data.
     7. Score model is done by combining the result from train model and the testing data from the split data which holds 20% of the data.
     8. Evaluate model this is done by taking score model as input and the output can be visualized as follows and is also followed by a youtube video of demonstration of Employee Churn Prediction.
+            ![image](https://user-images.githubusercontent.com/71095797/155858378-6b17dd8e-b1bf-4c23-904a-48829e19f434.png)
 
-    ![image](https://user-images.githubusercontent.com/71095797/155857562-769ff842-697a-44f7-8a0e-a135310c7474.png)
-      
-      https://youtu.be/Ul0Ai4gTke8
+    https://youtu.be/Ul0Ai4gTke8
       
       
